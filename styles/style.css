@@ -1,0 +1,36 @@
+/*
+8. Ketentuan dalam tugas ini silakan gunakan property color, font-size, font-weight, dan font-family,
+untuk pewarnaan background silakan gunakan property background-color
+*/
+
+/* 3. Silakan lakukan seleksi kepada tag paragraf */
+p {
+  background-color: #808080;
+  border: 1px solid black;
+  font-size: 12px;
+}
+
+/* 4. Buatlah tampilan paragraf pertama */
+.p_pertama {
+  background-color: #C96E00;
+}
+
+/* 5. Buatlah tampilan paragraf kedua */
+.p_kedua {
+  background-color: #0000FF;
+  color: white;
+}
+
+/* 6. Buatlah tampilan paragraf ketiga */
+.p_ketiga {
+  background-color: #FFFFFF;
+  font-family: monospace;
+  font-size: 18px;
+  border-color: gray;
+}
+
+/* 7. Buatlah tampilan paragraf keempat */
+.p_keempat {
+  font-weight: bold;
+  font-size: 18px;
+}
